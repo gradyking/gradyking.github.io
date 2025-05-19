@@ -52,3 +52,7 @@ Check out my CV [here](https://docs.google.com/viewer?url=https://raw.githubuser
 - Found significant decrease in heart disease mortality
 - A reduction in heart disease mortality in non-expansion states similar to expansion states would have prevented **~14,600 deaths over 10 years**.
 :::
+
+## Research Summary
+
+![](researchSummary.pdf){width=100% height=65em}
