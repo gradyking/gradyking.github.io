@@ -1,0 +1,30 @@
+project:
+  type: website
+
+website:
+  favicon: favicon.ico
+  title: "Grady King"
+  navbar:
+    left:
+      - text: "Papers"
+        href: index.qmd#papers
+      - text: "Projects"
+        href: projects.qmd
+      - text: "Presentations"
+        href: presentations.qmd
+    right:
+      - icon: github
+        href: https://github.com/gradyking
+  page-footer:
+    right: |
+      Built from the ❤️ with [Quarto](https://quarto.org)
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    anchor-sections: true
+    backgroundcolor: "#f4f4f4"
+execute:
+  freeze: auto

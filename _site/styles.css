@@ -1,0 +1,31 @@
+/* css styles */
+div.quarto-about-trestles {
+    padding-top: 1em !important;
+}
+
+h2[data-anchor-id="hello"] {
+    margin-top: 1em !important;
+}
+
+section[id=papers] a {
+  color: black;
+}
+
+section[id=papers] a:hover {
+  color: #3396c4;
+}
+
+span.coauthor {
+  color: grey;
+}
+
+span.coauthor a {
+  color: grey;
+  text-decoration: none;
+}
+
+.float-right {
+  float: right;
+  margin-left: 1em;
+  margin-bottom: 1em;
+}

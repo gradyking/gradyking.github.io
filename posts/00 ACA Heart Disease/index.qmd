@@ -1,0 +1,9 @@
+---
+title: "Impact of the Affordable Care Act on Heart Disease Mortality"
+author: "Grady King"
+date: "2025-05-18"
+categories: [paper, public health]
+image: "HDM.png"
+---
+
+This is a post with executable code.
