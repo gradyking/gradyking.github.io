@@ -1,61 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Grady King",
-    "section": "",
-    "text": "GitHub\n  \n  \n    \n     LinkedIn\n  \n  \n      Google Scholar\n  \n\n  \n  \n\n\nI’m an undergraduate student at West Virginia University, majoring in data science with minors in molecular medicine and statistics. I’m involved in multiple health-related research projects, including investigating the Affordable Care Act’s impact on lung cancer, and genetically monitoring over 200 viruses and their variants in West Virginia patient samples from all around the state. I was named a 2025 Goldwater Scholar, and I have a first-author peer-reviewed paper published in Economic Affairs.\nDuring graduate school, I hope to investigate the three-way interactions between the human microbiome, ultra-processed foods, and disease.\nOutside of academics, I serve as the president of the WVU Climbing Club, and I enjoy cooking, reading, and having fun with robots!\nCheck out my CV here!"
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Grady King",
-    "section": "",
-    "text": "I’m an undergraduate student at West Virginia University, majoring in data science with minors in molecular medicine and statistics. I’m involved in multiple health-related research projects, including investigating the Affordable Care Act’s impact on lung cancer, and genetically monitoring over 200 viruses and their variants in West Virginia patient samples from all around the state. I was named a 2025 Goldwater Scholar, and I have a first-author peer-reviewed paper published in Economic Affairs.\nDuring graduate school, I hope to investigate the three-way interactions between the human microbiome, ultra-processed foods, and disease.\nOutside of academics, I love climbing rocks, cooking, and having fun with robots!\nCheck out my CV here!"
-  },
-  {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "about.html#hello",
-    "href": "about.html#hello",
-    "title": "Grady King",
-    "section": "",
-    "text": "I’m an undergraduate student at West Virginia University, majoring in data science with minors in molecular medicine and statistics. I’m involved in multiple health-related research projects, including investigating the Affordable Care Act’s impact on lung cancer, and genetically monitoring over 200 viruses and their variants in West Virginia patient samples from all around the state. I was named a 2025 Goldwater Scholar, and I have a first-author peer-reviewed paper published in Economic Affairs.\nDuring graduate school, I hope to investigate the three-way interactions between the human microbiome, ultra-processed foods, and disease.\nOutside of academics, I love climbing rocks, cooking, and having fun with robots!\nCheck out my CV here!"
-  },
-  {
-    "objectID": "index.html#hello",
-    "href": "index.html#hello",
-    "title": "Grady King",
-    "section": "",
-    "text": "I’m an undergraduate student at West Virginia University, majoring in data science with minors in molecular medicine and statistics. I’m involved in multiple health-related research projects, including investigating the Affordable Care Act’s impact on lung cancer, and genetically monitoring over 200 viruses and their variants in West Virginia patient samples from all around the state. I was named a 2025 Goldwater Scholar, and I have a first-author peer-reviewed paper published in Economic Affairs.\nDuring graduate school, I hope to investigate the three-way interactions between the human microbiome, ultra-processed foods, and disease.\nOutside of academics, I serve as the president of the WVU Climbing Club, and I enjoy cooking, reading, and having fun with robots!\nCheck out my CV here!"
-  },
-  {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "Grady King",
-    "section": "",
-    "text": "Impact of the Affordable Care Act on Heart Disease Mortality\n\n\n\npaper\n\npublic health\n\n\n\n\n\n\n\n\n\nMay 18, 2025\n\n\nGrady King\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nMay 18, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 15, 2025\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/00 ACA Heart Disease/index.html",
-    "href": "posts/00 ACA Heart Disease/index.html",
-    "title": "Impact of the Affordable Care Act on Heart Disease Mortality",
-    "section": "",
-    "text": "This is a post with executable code."
-  },
-  {
     "objectID": "test.html",
     "href": "test.html",
     "title": "Finley Malloc",
@@ -77,18 +21,32 @@
     "text": "Wengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
   },
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Finley Malloc",
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
     "section": "",
-    "text": "University of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul, MN B.A in Economics | Sept 2007 - June 2011"
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Finley Malloc",
+    "objectID": "posts/00 ACA Heart Disease/index.html",
+    "href": "posts/00 ACA Heart Disease/index.html",
+    "title": "Impact of the Affordable Care Act on Heart Disease Mortality",
     "section": "",
-    "text": "Wengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Grady King",
+    "section": "",
+    "text": "GitHub\n  \n  \n    \n     LinkedIn\n  \n  \n      Google Scholar\n  \n\n  \n  \n\n\nI’m an undergraduate student at West Virginia University, majoring in data science with minors in molecular medicine and statistics. I’m involved in multiple health-related research projects, including investigating the Affordable Care Act’s impact on lung cancer, and genetically monitoring over 200 viruses and their variants in West Virginia patient samples from all around the state. I was named a 2025 Goldwater Scholar, and I have a first-author peer-reviewed paper published in Economic Affairs.\nDuring graduate school, I hope to investigate the three-way interactions between the human microbiome, ultra-processed foods, and disease.\nOutside of academics, I serve as the president of the WVU Climbing Club, and I enjoy cooking, reading, and having fun with robots!\nCheck out my CV here!"
+  },
+  {
+    "objectID": "index.html#hello",
+    "href": "index.html#hello",
+    "title": "Grady King",
+    "section": "",
+    "text": "I’m an undergraduate student at West Virginia University, majoring in data science with minors in molecular medicine and statistics. I’m involved in multiple health-related research projects, including investigating the Affordable Care Act’s impact on lung cancer, and genetically monitoring over 200 viruses and their variants in West Virginia patient samples from all around the state. I was named a 2025 Goldwater Scholar, and I have a first-author peer-reviewed paper published in Economic Affairs.\nDuring graduate school, I hope to investigate the three-way interactions between the human microbiome, ultra-processed foods, and disease.\nOutside of academics, I serve as the president of the WVU Climbing Club, and I enjoy cooking, reading, and having fun with robots!\nCheck out my CV here!"
   },
   {
     "objectID": "index.html#papers",
@@ -96,5 +54,19 @@
     "title": "Grady King",
     "section": "Papers",
     "text": "Papers\nImpact of the Medicaid expansions on heart disease mortality (2025). Economic Affairs 45:1, 78-91\nWith Dr. Srinivas Palanki\nCode; Poster\n\n\n\n\n\n\nSummary\n\n\n\n\n\n\n\n\n\n\nChange in heart disease mortality from 2010 to 2019\n\n\n\n\nGoal: Did the Affordable Care Act prevent deaths?\nMedicaid covers low-income Americans, but was different state-by-state\nAffordable Care Act wanted to cover everyone under 138% of the federal poverty line (FPL) with Medicaid\nSupreme Court ruled that states can choose to expand Medicaid or not -&gt; two comparison groups\nLooked at “preventable” heart disease deaths, meaning deaths designated by the CDC to be very deadly without treatment, but not deadly with treatment\nFound significant decrease in heart disease mortality\nA reduction in heart disease mortality in non-expansion states similar to expansion states would have prevented ~14,600 deaths over 10 years."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Grady King",
+    "section": "",
+    "text": "Impact of the Affordable Care Act on Heart Disease Mortality\n\n\n\npaper\n\npublic health\n\n\n\n\n\n\n\n\n\nMay 18, 2025\n\n\nGrady King\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nMay 18, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 15, 2025\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
   }
 ]
