@@ -18,6 +18,9 @@ website:
   page-footer:
     right: |
       Built from the ❤️ with [Quarto](https://quarto.org)
+  google-analytics:
+    tracking-id: "G-BD41GWR3K3"
+    anonymize-ip: true
 format:
   html:
     theme:
