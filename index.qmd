@@ -20,7 +20,7 @@ about:
 ## Hello!
 I'm an undergraduate student at West Virginia University, majoring in data science with minors in molecular medicine and statistics. I'm involved in multiple health-related research projects, including investigating the Affordable Care Act's impact on lung cancer, and genetically monitoring over 200 viruses and their variants in West Virginia patient samples from all around the state. I was named a [2025 Goldwater Scholar](https://wvutoday.wvu.edu/stories/2025/04/22/three-wvu-students-named-goldwater-scholars), and I have a first-author peer-reviewed paper published in Economic Affairs.
 
-During graduate school, I hope to investigate the three-way interactions between the human microbiome, ultra-processed foods, and disease. 
+During graduate school, I hope to learn about utilizing omics technology for preventative medicine.
 
 Outside of academics, I serve as the president of the [WVU Climbing Club](https://wvuclimbingclub.github.io), and I enjoy cooking, reading, and having fun with robots!
 
