@@ -18,13 +18,13 @@ about:
 ---
 :::{#trest-heading}
 ## Hello!
-I'm an undergraduate student at West Virginia University, majoring in data science with minors in molecular medicine and statistics. I'm involved in multiple health-related research projects, including investigating the Affordable Care Act's impact on lung cancer, and genetically monitoring over 200 viruses and their variants in West Virginia patient samples from all around the state. I was named a [2025 Goldwater Scholar](https://wvutoday.wvu.edu/stories/2025/04/22/three-wvu-students-named-goldwater-scholars), and I have a first-author peer-reviewed paper published in Economic Affairs.
+I'm a master's student in computational biology at Carnegie Mellon University! I'm on a mission to utilize multi-modal biological data like -omics, images, and test results to inform diagnosis, predict treatment and prognosis heterogeneity, and hopefully catch diseases before they occur.
 
-During graduate school, I hope to learn about utilizing omics technology for preventative medicine.
+In my data science BS at West Virginia University, I was involved in [public health insurance analysis](https://github.com/gradyking/ACA-Research), analyzing human nasal swab samples for [viral variants](https://github.com/gradyking/stoilov-viral-variants), and learning about the role of RNA-binding proteins in mouse photoreceptors in my [capstone](https://github.com/gradyking/capstone). I also learned the basics of many human diseases in my molecular medicine minor, and rigorous design of experiments and regression analysis in my statistics minor!
 
-Outside of academics, I serve as the president of the [WVU Climbing Club](https://wvuclimbingclub.github.io), and I enjoy cooking, reading, and having fun with robots!
+Check out my CV [here](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/gradyking/gradyking/refs/heads/main/Grady%20King%20Current%20CV.pdf)! If you'd like to reach me, check my github page on the left.
 
-Check out my CV [here](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/gradyking/gradyking/refs/heads/main/Grady%20King%20Current%20CV.pdf)!
+Outside of academics, I love to climb, cook, read, jam out to music, learn about the world, and eat new and increasingly spicy foods!
 
 :::
 
