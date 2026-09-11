@@ -1,1 +1,1 @@
-Sitemap: https://gradyking.github.io/sitemap.xml
+Sitemap: https://gradyk.ing/sitemap.xml
