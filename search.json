@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "Grady King",
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
     "section": "",
-    "text": "Impact of the Affordable Care Act on Heart Disease Mortality\n\n\n\npaper\n\npublic health\n\n\n\n\n\n\n\n\n\nMay 18, 2025\n\n\nGrady King\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nMay 18, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 15, 2025\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "This is a post with executable code."
   },
   {
     "objectID": "posts/00 ACA Heart Disease/index.html",
@@ -21,18 +14,25 @@
     "text": "This is a post with executable code."
   },
   {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Grady King",
+    "section": "",
+    "text": "Impact of the Affordable Care Act on Heart Disease Mortality\n\n\n\npaper\n\npublic health\n\n\n\n\n\n\n\n\n\nMay 18, 2025\n\n\nGrady King\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nMay 18, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 15, 2025\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Grady King",
     "section": "",
-    "text": "GitHub\n  \n  \n    \n     LinkedIn\n  \n  \n      Google Scholar\n  \n\n  \n  \n\n\nI’m an undergraduate student at West Virginia University, majoring in data science with minors in molecular medicine and statistics. I’m involved in multiple health-related research projects, including investigating the Affordable Care Act’s impact on lung cancer, and genetically monitoring over 200 viruses and their variants in West Virginia patient samples from all around the state. I was named a 2025 Goldwater Scholar, and I have a first-author peer-reviewed paper published in Economic Affairs.\nDuring graduate school, I hope to learn about utilizing omics technology for preventative medicine.\nOutside of academics, I serve as the president of the WVU Climbing Club, and I enjoy cooking, reading, and having fun with robots!\nCheck out my CV here!"
+    "text": "GitHub\n  \n  \n    \n     LinkedIn\n  \n  \n      Google Scholar\n  \n\n  \n  \n\n\nI’m a master’s student in computational biology at Carnegie Mellon University! I’m on a mission to utilize multi-modal biological data like -omics, images, and test results to inform diagnosis, predict treatment and prognosis heterogeneity, and hopefully catch diseases before they occur.\nIn my data science BS at West Virginia University, I was involved in public health insurance analysis, analyzing human nasal swab samples for viral variants, and learning about the role of RNA-binding proteins in mouse photoreceptors in my capstone. I also learned the basics of many human diseases in my molecular medicine minor, and rigorous design of experiments and regression analysis in my statistics minor!\nCheck out my CV here! If you’d like to reach me, check my github page on the left.\nOutside of academics, I love to climb, cook, read, jam out to music, learn about the world, and eat new and increasingly spicy foods!"
   },
   {
     "objectID": "index.html#hello",
     "href": "index.html#hello",
     "title": "Grady King",
     "section": "",
-    "text": "I’m an undergraduate student at West Virginia University, majoring in data science with minors in molecular medicine and statistics. I’m involved in multiple health-related research projects, including investigating the Affordable Care Act’s impact on lung cancer, and genetically monitoring over 200 viruses and their variants in West Virginia patient samples from all around the state. I was named a 2025 Goldwater Scholar, and I have a first-author peer-reviewed paper published in Economic Affairs.\nDuring graduate school, I hope to learn about utilizing omics technology for preventative medicine.\nOutside of academics, I serve as the president of the WVU Climbing Club, and I enjoy cooking, reading, and having fun with robots!\nCheck out my CV here!"
+    "text": "I’m a master’s student in computational biology at Carnegie Mellon University! I’m on a mission to utilize multi-modal biological data like -omics, images, and test results to inform diagnosis, predict treatment and prognosis heterogeneity, and hopefully catch diseases before they occur.\nIn my data science BS at West Virginia University, I was involved in public health insurance analysis, analyzing human nasal swab samples for viral variants, and learning about the role of RNA-binding proteins in mouse photoreceptors in my capstone. I also learned the basics of many human diseases in my molecular medicine minor, and rigorous design of experiments and regression analysis in my statistics minor!\nCheck out my CV here! If you’d like to reach me, check my github page on the left.\nOutside of academics, I love to climb, cook, read, jam out to music, learn about the world, and eat new and increasingly spicy foods!"
   },
   {
     "objectID": "index.html#papers",
@@ -47,13 +47,6 @@
     "title": "Grady King",
     "section": "Research Summary",
     "text": "Research Summary"
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code."
   },
   {
     "objectID": "test.html",
@@ -75,5 +68,12 @@
     "title": "Finley Malloc",
     "section": "",
     "text": "Wengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   }
 ]
