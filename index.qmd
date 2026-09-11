@@ -22,7 +22,7 @@ I'm a master's student in computational biology at Carnegie Mellon University! I
 
 In my data science BS at West Virginia University, I was involved in [public health insurance analysis](https://github.com/gradyking/ACA-Research), analyzing human nasal swab samples for [viral variants](https://github.com/gradyking/stoilov-viral-variants), and learning about the role of RNA-binding proteins in mouse photoreceptors in my [capstone](https://github.com/gradyking/capstone). I also learned the basics of many human diseases in my molecular medicine minor, and rigorous design of experiments and regression analysis in my statistics minor!
 
-Check out my CV [here](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/gradyking/gradyking/refs/heads/main/Grady%20King%20Current%20CV.pdf)! If you'd like to reach me, check my github page on the left.
+Check out my CV [here](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/gradyking/gradyking/refs/heads/main/Grady%20King%20Current%20CV.pdf)! If you'd like to reach me, check my GitHub page on the left.
 
 Outside of academics, I love to climb, cook, read, jam out to music, learn about the world, and eat new and increasingly spicy foods!
 
